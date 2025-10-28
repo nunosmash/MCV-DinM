@@ -27,4 +27,4 @@ DIN Midi in : RX (see attached image)
   
 https://youtube.com/shorts/l_eDTBdDu1A  
 ## ![pic](ASW_M-CVdin.png)  
-## ![pic](DIN MIDI in wiring.jpg)
+
